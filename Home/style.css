@@ -378,3 +378,23 @@ body{
     padding-left: 150px;
     padding-top: 70px;
 }
+
+.div-left
+{
+    position: relative;
+}
+
+.txt-foot
+{
+    color: rgb(234, 226, 205);
+}
+
+.txt-foot-1
+{
+    padding:100px;
+}
+
+.txt-foot-2
+{
+    padding-left: 100px;
+}
