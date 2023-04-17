@@ -387,14 +387,18 @@ body{
 .txt-foot
 {
     color: rgb(234, 226, 205);
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
 }
 
 .txt-foot-1
 {
-    padding:100px;
+    padding-left:100px;
+    padding-top: 100px;
 }
 
 .txt-foot-2
 {
+    padding-top: 5px;
     padding-left: 100px;
 }
